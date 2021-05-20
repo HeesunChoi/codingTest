@@ -37,4 +37,3 @@ def solution(n, edge):
     # print(distance[1:])
     
     return answer
-[출처] 가장 먼 노드|작성자 hsssy01
