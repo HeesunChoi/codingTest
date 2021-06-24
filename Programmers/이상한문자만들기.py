@@ -17,4 +17,3 @@ def solution(s):
         answer += " "
     
     return answer[:len(answer)-1]
-[출처] 이상한 문자 만들기|작성자 hsssy01
